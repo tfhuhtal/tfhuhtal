@@ -11,5 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: tuomas.huhtala@helsinki.fi
 - ⚡ Fun fact: Learning Vim takes lifetime
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=tfhuhtal&show_icons=true)
+<!--![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=tfhuhtal&show_icons=true)
+-->
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tfhuhtal&theme=blue-pink)
