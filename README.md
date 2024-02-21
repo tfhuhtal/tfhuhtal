@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning *NeoVim*
 - 💬 Ask me about anything except NeoVim
 - 📫 How to reach me: tuomas.huhtala@icloud.com
-- ⚡ Fun fact: Learning Vim takes lifetime
+
 
 <!--![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=tfhuhtal&show_icons=true)
 -->
