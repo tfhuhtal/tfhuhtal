@@ -6,10 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently studying on *University Of Helsinki*
-- 🌱 I’m currently learning *NeoVim*
-- 💬 Ask me about anything except NeoVim
-- 📫 How to reach me: tuomas.huhtala@icloud.com
-
+- 🌱 I’m currently learning *Kubernetes*
 
 <!--![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=tfhuhtal&show_icons=true)
 -->
